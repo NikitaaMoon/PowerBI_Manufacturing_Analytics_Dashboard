@@ -128,6 +128,8 @@ This dashboard **solves all of the above** by integrating every data domain into
 - Gauge Charts: Target Value Indicators (×3)
 - Slicers: Priority, Product, Product Family
 
+![Demo](https://github.com/NikitaaMoon/PowerBI_Manufacturing_Analytics_Dashboard/blob/main/Manufacturing.png)
+
 </details>
 
 <details>
