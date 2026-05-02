@@ -28,6 +28,8 @@ This dashboard empowers plant managers, operations teams, and executives to moni
 
 ---
 
+![Manufacturing Dashboard](Manufacturing.png)
+
 ## ❗ Problem Solved
 
 Manufacturing operations generate massive volumes of data across disconnected systems — production lines, quality labs, maintenance logs, inventory systems, and environmental monitors. Without a unified view:
